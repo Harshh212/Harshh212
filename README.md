@@ -1,5 +1,5 @@
 <h3 align = "center">Hi there! My name is Harsh Chaudhari and I'm 
-currently a second year student pursuing a degree in Information Technology at 
+currently a third year student pursuing a degree in Information Technology at 
 Mumbai University.</h3>
 <br>
 # 💫 About Me:
