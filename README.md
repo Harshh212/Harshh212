@@ -1,4 +1,4 @@
-<h3 align = "center">Hi there!I am Harsh Chaudhari and I'm 
+<h3 align = "center">Hi there! I am Harsh Chaudhari and I'm 
 currently a third year student pursuing a degree in Information Technology at 
 Mumbai University.</h3>
 <br>
