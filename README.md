@@ -1,8 +1,8 @@
 <h3 align = "center">Hi there! I am Harsh Chaudhari and I'm 
-currently a third year student pursuing a degree in Information Technology at 
+currently a fourth year student pursuing a degree in Information Technology at 
 Don Bosco Institute of Technology.</h3>
 <br>
-# 💫 About Me:
+
 Heyy there! I am Harsh Chaudhari a passionate and dedicated Third-year IT engineering student, eagerly traversing the realm of technology. With a curious mind and a penchant for problem-solving, I am on a continuous journey to unravel the intricacies of software and hardware. Through collaborative projects and in-depth coursework, I am honing my coding skills and developing a profound understanding of networking and systems. As an avid learner, I thrive on staying updated with the dynamic IT landscape, adapting to emerging trends and innovations. Beyond academics, I am an active participant in tech-related clubs, seeking to exchange ideas and foster a vibrant learning community. My goal is to contribute meaningfully to the digital transformation while embracing every opportunity to evolve and thrive in this ever-evolving field.
 <br>
 <br>
